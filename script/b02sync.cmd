@@ -1,6 +1,6 @@
 echo hello
 
-cd ../sites/
+cd ../
 
 browser-sync start --server --directory --files "**/*"
 
