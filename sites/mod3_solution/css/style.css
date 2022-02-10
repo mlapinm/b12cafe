@@ -11,15 +11,10 @@
   position: relative;
   background-color: #AAAAAA;
   margin: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
   box-sizing: border-box;
   overflow: hidden;
 }
 
-.h2 {
-  text-align: center;
-  background-color: #AAA;
-}
+
 
 
